@@ -1,0 +1,4 @@
+name = "moontv"
+compatibility_date = "2025-08-06"
+nodejs_compat = true
+pages_build_output_dir = ".vercel/output/static"
